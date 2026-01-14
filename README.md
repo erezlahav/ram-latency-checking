@@ -1,2 +1,3 @@
 # ram-latency-checking
-expiriment of checking the latency of the ram by accessing a large array buffer and try to minimize cache work,page faults and context switches
+- Measures **L1, L2, L3 cache** and **RAM latency**.
+- try to minimize **cache work,page faults and context switches**
