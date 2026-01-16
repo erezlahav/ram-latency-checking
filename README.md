@@ -23,7 +23,7 @@ It tries to minimize the effects of **cache prefetching, page faults, and contex
 1. Compile the program with GCC:
 
 ```bash
-gcc -O2 -march=native -pthread -o latency_checker latency_checker.c
+gcc -pthread -o latency_checker latency_checker.c
 ```
 
 ## Exemples
